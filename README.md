@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**JeffreyDelapaz18/JeffreyDelapaz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate person on coding freshmen college student
 
-Here are some ideas to get you started:
+🌱 I’m currently learning All possible to learn about coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with 
+
+💬 Ask me about My learnings about the code
+
+📫 How to reach me jd752001@gmail.com
+
+⚡ Fun fact Im kinda lost sometimes in coding
+
+Connect with me:
+
+Languages and Tools:
+
+ cplusplus  java  javascript  python
